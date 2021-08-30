@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "980714721087",
+    "project_id": "login-dan-register-379b8",
+    "storage_bucket": "login-dan-register-379b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980714721087:android:94664678732998e9580d8a",
+        "android_client_info": {
+          "package_name": "com.sisyagnia.logindanregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980714721087-09pb4fhf869q2adlmir5jmajfam69u1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaDE4t6IvQq-PMi7IUmrilAwx2iUVozqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980714721087-09pb4fhf869q2adlmir5jmajfam69u1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
